@@ -1,0 +1,32 @@
+fecha,competicion,temporada,local,visitante,goles_local,goles_visitante,match_id,eventos,fuente
+2021-04-10,La Liga,2020/2021,Real Madrid,Barcelona,2,1,3773497,3991,StatsBomb
+2020-10-24,La Liga,2020/2021,Barcelona,Real Madrid,1,3,3773585,4213,StatsBomb
+2020-03-01,La Liga,2019/2020,Real Madrid,Barcelona,2,0,303470,4227,StatsBomb
+2019-12-18,La Liga,2019/2020,Barcelona,Real Madrid,0,0,303596,4158,StatsBomb
+2019-03-02,La Liga,2018/2019,Real Madrid,Barcelona,0,1,16196,3978,StatsBomb
+2018-05-06,La Liga,2017/2018,Barcelona,Real Madrid,2,2,9924,3831,StatsBomb
+2017-12-23,La Liga,2017/2018,Real Madrid,Barcelona,0,3,9736,4101,StatsBomb
+2017-04-23,La Liga,2016/2017,Real Madrid,Barcelona,2,3,267569,3667,StatsBomb
+2016-12-03,La Liga,2016/2017,Barcelona,Real Madrid,1,1,267076,3979,StatsBomb
+2016-04-02,La Liga,2015/2016,Barcelona,Real Madrid,1,2,267533,3700,StatsBomb
+2015-11-21,La Liga,2015/2016,Real Madrid,Barcelona,0,4,266424,3860,StatsBomb
+2015-03-22,La Liga,2014/2015,Barcelona,Real Madrid,2,1,267183,3823,StatsBomb
+2014-10-25,La Liga,2014/2015,Real Madrid,Barcelona,3,1,267085,3839,StatsBomb
+2014-03-23,La Liga,2013/2014,Real Madrid,Barcelona,3,4,265857,3905,StatsBomb
+2013-10-26,La Liga,2013/2014,Barcelona,Real Madrid,2,1,70293,3693,StatsBomb
+2013-03-02,La Liga,2012/2013,Real Madrid,Barcelona,2,1,70272,3867,StatsBomb
+2012-10-07,La Liga,2012/2013,Barcelona,Real Madrid,2,2,70300,3675,StatsBomb
+2012-04-21,La Liga,2011/2012,Barcelona,Real Madrid,1,2,69324,3616,StatsBomb
+2011-12-10,La Liga,2011/2012,Real Madrid,Barcelona,1,3,69334,4049,StatsBomb
+2011-04-16,La Liga,2010/2011,Real Madrid,Barcelona,1,1,69245,3794,StatsBomb
+2010-11-29,La Liga,2010/2011,Barcelona,Real Madrid,5,0,69299,3975,StatsBomb
+2010-04-10,La Liga,2009/2010,Real Madrid,Barcelona,0,2,69259,3688,StatsBomb
+2009-11-29,La Liga,2009/2010,Barcelona,Real Madrid,1,0,69262,3906,StatsBomb
+2009-05-02,La Liga,2008/2009,Real Madrid,Barcelona,2,6,69249,3657,StatsBomb
+2008-12-13,La Liga,2008/2009,Barcelona,Real Madrid,2,0,69225,3379,StatsBomb
+2008-05-07,La Liga,2007/2008,Real Madrid,Barcelona,4,1,68361,3404,StatsBomb
+2007-03-10,La Liga,2006/2007,Barcelona,Real Madrid,3,3,68335,3678,StatsBomb
+2006-10-22,La Liga,2006/2007,Real Madrid,Barcelona,2,0,68330,3354,StatsBomb
+2005-11-19,La Liga,2005/2006,Real Madrid,Barcelona,0,3,68319,3653,StatsBomb
+1983-06-04,Copa del Rey,1982/1983,Barcelona,Real Madrid,2,1,3888721,2557,StatsBomb
+1974-02-17,La Liga,1973/1974,Real Madrid,Barcelona,0,5,3888713,2974,StatsBomb

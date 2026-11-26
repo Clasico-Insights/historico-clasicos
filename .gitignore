@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Claves y secretos (este repositorio es público) ---
+# Nunca subas claves de API. En Colab, guárdalas en Secretos (icono de la llave).
+.env.*
+*.key
+secrets.*
+secretos.*
+credentials*.json
+config_local.*
