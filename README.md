@@ -24,7 +24,8 @@ Los datos descargados se guardan también en Google Drive para no depender de la
 historico-clasicos/
 ├── datos/
 │   └── inventario_clasicos_statsbomb.csv   # Los 31 Clásicos disponibles en StatsBomb
-├── Pruebas_API_football_Statsbomb_pruebas.ipynb   # Cuaderno de pruebas (Colab)
+├── 01_base_de_datos.ipynb                  # Descarga los datos y los guarda en Drive
+├── 02_mapa_de_tiros.ipynb                  # Plantilla: mapa de tiros y carrera de xG
 ├── README.md
 ├── LICENSE
 └── .gitignore
@@ -44,6 +45,22 @@ Una fila por partido (31 en total, 116.191 eventos). Los goles coinciden con el 
 | `match_id` | Identificador del partido en StatsBomb |
 | `eventos` | Número de eventos registrados en el partido |
 | `fuente` | Proveedor de los datos |
+
+## Identidad visual
+
+Todos los gráficos comparten el mismo estilo (definido en la celda 2 de `02_mapa_de_tiros.ipynb`):
+
+| Elemento | Valor |
+|---|---|
+| Fondo | `#14171F` (casi negro) |
+| Texto | `#F2F2F2`; secundarios en `#9AA3B2` |
+| Barcelona | `#E0245E` (granate) |
+| Real Madrid | `#F2F2F2` (blanco) |
+| Tipografía | Roboto (Google Fonts) |
+| Tamaño | 1600 × 900 px |
+| Pie | «Datos: StatsBomb Open Data» y logo de StatsBomb |
+
+El título de cada gráfico dice su conclusión. Sin escudos, fotos de jugadores ni imágenes de los clubes.
 
 ## Limitaciones
 
