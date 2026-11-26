@@ -70,14 +70,7 @@ El título de cada gráfico dice su conclusión. Sin escudos, fotos de jugadores
 - **Muestras pequeñas.** Con pocos partidos por temporada, conviene evitar conclusiones fuertes.
 - **Minutos jugados.** Las comparaciones entre jugadores deben ajustarse por minutos (p. ej. por 90 minutos).
 
-## Seguridad
 
-Este repositorio es público. **Nunca escribas claves de API en el código.** En Colab, guarda la clave en *Secretos* (icono de la llave en la barra lateral) y léela así:
-
-```python
-from google.colab import userdata
-API_KEY = userdata.get("API_FOOTBALL_KEY")
-```
 
 ## Atribución
 
