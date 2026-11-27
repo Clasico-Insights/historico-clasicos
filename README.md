@@ -1,6 +1,6 @@
 # Histórico de los Clásicos
 
-Historia de los partidos Barça–Real Madrid de fútbol contada con datos, para publicar en X y LinkedIn.
+Historia de los partidos Barça–Real Madrid de fútbol contada con datos, para publicar en X.
 
 El objetivo es crear contenido visual (gráficos y textos) a partir de datos de eventos y estadísticas de partido, con un tono neutral entre los dos equipos.
 
